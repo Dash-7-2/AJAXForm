@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    padding: 10px;
+    background: rgba(164, 18, 209, 0.288);
+}
+
+input {
+    width: 400px;
+    height: 30px;
+}
+
+button {
+    width: 150px;
+    height: 35px;
+    border: 2px solid rgb(226, 7, 233);
+    background: rgb(43, 224, 119);
+    border-radius: 10px;
+    font-size: 20px;
+}
